@@ -1,0 +1,9 @@
+# MYSQL
+MariaDB
+MYSQL
+mysql
+Mysql
+mariadb
+mariaDB
+You have an error in your SQL syntax;
+line
